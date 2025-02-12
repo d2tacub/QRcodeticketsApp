@@ -8,9 +8,9 @@
 - [Informacje ogólne](#general-information)
 - [Użyte technologie](#technologies-used)
 - [Funkcje](#features)
-- [Screenshots](#screenshots)- [Konfiguracja](#setup)
+- [Zrzuty ekranu](#screenshots)
 - [Konfiguracja](#setup)
-- [Kroki instalacji](#instalation setups)
+- [Kroki instalacji](#installation-setup)
 - [Użycie](#usage)
 - [Status projektu](#project-status)
 - [Możliwości rozwoju](#room-for-improvement)
@@ -86,8 +86,7 @@ Przed uruchomieniem projektu, należy zainstalować następujące zależności:
 
 Sklonuj repozytorium:
 
-   ```bash
-   git clone https://github.com/yourusername/QRcodeticketsApp.git
+git clone https://github.com/yourusername/QRcodeticketsApp.git
 
 ---
 
@@ -116,14 +115,14 @@ Projekt jest zakończony, ale może być dalej rozwijany.
 **Ulepszenie 1**: Zintegrowanie bramki płatności do przetwarzania płatności przy rezerwacji biletów.  
 **Ulepszenie 2**: Dodanie możliwości przeglądania historii rezerwacji biletów przez użytkowników.
 
-To Do:
+## To Do:
 
 **Funkcja 1**: Implementacja systemu powiadomień e-mail dla potwierdzeń biletów.  
 **Funkcja 2**: Dodanie recenzji i ocen filmów.
 
 ---
 
-## Acknowledgements:
+## Podziękowania:
 
 **Inspiracja**: Projekt został zainspirowany kilkoma samouczkami Django dotyczącymi budowy aplikacji internetowych.  
 **Samouczki**: Wielkie podziękowania dla dokumentacji Django za doskonałe zasoby do tworzenia aplikacji Django.  
@@ -131,9 +130,9 @@ To Do:
 
 ---
 
-## Kontact
+## Kontakt
 
 Created by @Sofia - feel free to contact me!
 
-
+---
    
