@@ -92,7 +92,7 @@ git clone https://github.com/yourusername/QRcodeticketsApp.git
 
 ## Użycie
 
-1. **Dostęp do strony głównej**: Po uruchomieniu serwera, odwiedź http://127.0.0.1:8000/, aby zobaczyć listę dostępnych filmów.
+1. **Dostęp do strony głównej**: Po uruchomieniu serwera, odwiedź http://127.0.0.1:8000/movies/, aby zobaczyć listę dostępnych filmów.
 
 2. **Rezerwacja biletu**: Wybierz film i przejdź do rezerwacji biletu, wypełniając wymagane dane.
 
