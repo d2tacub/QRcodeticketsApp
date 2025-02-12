@@ -14,7 +14,6 @@
 - [Użycie](#usage)
 - [Status projektu](#project-status)
 - [Możliwości rozwoju](#room-for-improvement)
-- [Acknowledgements](#acknowledgements)
 - [Kontakt](#contact)
   
 ---
@@ -119,14 +118,6 @@ Projekt jest zakończony, ale może być dalej rozwijany.
 
 **Funkcja 1**: Implementacja systemu powiadomień e-mail dla potwierdzeń biletów.  
 **Funkcja 2**: Dodanie recenzji i ocen filmów.
-
----
-
-## Podziękowania:
-
-**Inspiracja**: Projekt został zainspirowany kilkoma samouczkami Django dotyczącymi budowy aplikacji internetowych.  
-**Samouczki**: Wielkie podziękowania dla dokumentacji Django za doskonałe zasoby do tworzenia aplikacji Django.  
-**Biblioteki**: Szczególne podziękowania dla qrcode za umożliwienie łatwej integracji generowania kodów QR w projekcie.
 
 ---
 
