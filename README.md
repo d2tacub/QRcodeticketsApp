@@ -48,7 +48,7 @@
 ---
 
 ## Funkcje
-
+- **Loging**: Umożliwia użytkownikom zalogowanie się do aplikacji, aby zarządzać swoimi rezerwacjami.
 - **Movie Listing**: Przeglądaj dostępne filmy wraz z ich szczegółami.
 - **Booking Tickets**: Rezerwuj bilety na wybrany film i otrzymuj potwierdzenie.
 - **QR Code Generation**: Każda rezerwacja generuje unikalny kod QR do weryfikacji biletu.
@@ -57,6 +57,9 @@
 ---
 
 ## Zrzuty ekranu
+![login](https://github.com/user-attachments/assets/1412b09f-72e9-4a06-b701-130755b681eb)
+
+![admin](https://github.com/user-attachments/assets/4a01a80d-b5c9-47d6-a8c1-5ceaa4586fac)
 
 ![Movie Booking Page](https://github.com/user-attachments/assets/153512f8-3044-4632-aed7-4da5e9354b19)
 
