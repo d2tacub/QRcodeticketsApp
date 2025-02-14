@@ -1,7 +1,5 @@
 # QRcodeticketsApp
 
-**QRcodeticketsApp** to aplikacja internetowa oparta na Django, zaprojektowana w celu ułatwienia rezerwacji biletów na filmy, z wbudowaną generacją kodów QR do potwierdzenia biletów. Aplikacja pozwala użytkownikom przeglądać dostępne filmy, rezerwować bilety i otrzymywać kod QR do potwierdzonych biletów. Kod QR może zostać zeskanowany w celu walidacji w kinie lub na wydarzeniu. Projekt ten został podjęty w celu zbadania integracji Django z generowaniem kodów QR i systemami biletowymi.
-
 ---
 
 ## Table of Contents
@@ -20,13 +18,13 @@
 
 ## Informacje ogólne
 
-**QRcodeticketsApp** Jest to prosty i wydajny system biletowy, który integruje funkcjonalność kodów QR do szybkiej i bezpiecznej weryfikacji biletów. Aplikacja umożliwia użytkownikom przeglądanie i filtrowanie filmów, rezerwowanie biletów oraz otrzymywanie unikalnego kodu QR dla każdej rezerwacji. Aplikacja stanowi wprowadzenie do budowania systemu biletowego na filmy z wykorzystaniem Django.
+**QRcodeticketsApp** to aplikacja internetowa oparta na Django, zaprojektowana w celu ułatwienia rezerwacji biletów na filmy, z wbudowaną generacją kodów QR do potwierdzenia biletów. Aplikacja pozwala użytkownikom przeglądać dostępne filmy, rezerwować bilety i otrzymywać kod QR do potwierdzonych biletów. 
 
 - **Jaki problem rozwiązuje ta aplikacja?**  
-  Celem jest zaoferowanie cyfrowego rozwiązania do rezerwacji biletów, poprawa doświadczeń użytkowników poprzez automatyczne generowanie biletów oraz zbadanie integracji kodów QR w aplikacji realnego świata.
+  Aplikacja rozwiązuje problem tradycyjnych systemów rezerwacji biletów, które są czasochłonne i wymagają manualnego potwierdzenia rezerwacji. Dzięki QRcodeticketsApp użytkownicy mogą w prosty sposób rezerwować bilety na filmy online i otrzymywać unikalne kody QR, które mogą być łatwo zeskanowane w kinach lub na wydarzeniach. Aplikacja umożliwia szybszy i bezpieczniejszy proces rezerwacji, jednocześnie poprawiając doświadczenie użytkownika poprzez automatyczne generowanie biletów i eliminowanie potrzeby drukowania papierowych wersji.
 
 - **Jaki jest cel Twojego projektu?**  
-  Celem jest zaoferowanie cyfrowego rozwiązania do rezerwacji biletów, poprawa doświadczeń użytkowników poprzez automatyczne generowanie biletów oraz zbadanie integracji kodów QR w aplikacji realnego świata.
+  Celem projektu jest stworzenie cyfrowego rozwiązania, które uprości proces rezerwacji biletów. Projekt ma na celu poprawę wygody i bezpieczeństwa użytkowników dzięki automatycznemu generowaniu biletów w formie kodów QR. Dodatkowo, projekt pozwala na badanie integracji technologii QR w realnych aplikacjach, co może w przyszłości zostać wykorzystane w innych systemach rezerwacyjnych lub w branży eventowej.
 
 - **Dlaczego podjąłeś się tego projektu?**  
   Podjąłem się tego projektu, aby nauczyć się pracy z Django przy tworzeniu systemów biletowych oraz zrozumieć, jak kody QR mogą być użyte do zwiększenia bezpieczeństwa i wygody systemów rezerwacyjnych.
