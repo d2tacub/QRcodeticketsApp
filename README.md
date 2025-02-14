@@ -58,9 +58,7 @@
 
 ---
 
-## Screenshots
-
-**Example screenshot of the movie booking page:**
+## Zrzuty ekranu
 
 ![Movie Booking Page](https://github.com/user-attachments/assets/153512f8-3044-4632-aed7-4da5e9354b19)
 
