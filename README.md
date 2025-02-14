@@ -1,6 +1,6 @@
 # QRcodeticketsApp
 
-**QRcodeticketsApp** Jest to aplikacja internetowa oparta na Django, zaprojektowana w celu ułatwienia rezerwacji biletów na filmy, z wbudowaną generacją kodów QR do potwierdzenia biletów. Aplikacja pozwala użytkownikom przeglądać dostępne filmy, rezerwować bilety i otrzymywać kod QR do potwierdzonych biletów. Kod QR może zostać zeskanowany w celu walidacji w kinie lub na wydarzeniu. Projekt ten został podjęty w celu zbadania integracji Django z generowaniem kodów QR i systemami biletowymi.
+**QRcodeticketsApp** to aplikacja internetowa oparta na Django, zaprojektowana w celu ułatwienia rezerwacji biletów na filmy, z wbudowaną generacją kodów QR do potwierdzenia biletów. Aplikacja pozwala użytkownikom przeglądać dostępne filmy, rezerwować bilety i otrzymywać kod QR do potwierdzonych biletów. Kod QR może zostać zeskanowany w celu walidacji w kinie lub na wydarzeniu. Projekt ten został podjęty w celu zbadania integracji Django z generowaniem kodów QR i systemami biletowymi.
 
 ---
 
